@@ -25,7 +25,7 @@ h2 {
     background: #006b00;
 }
 #reset-btn{
-    background: #880000;
+    background: #008805;
 }
 #increment-btn:hover, #save-btn:hover, #reset-btn:hover{
     opacity: 0.6;
